@@ -1,8 +1,6 @@
 <?php
 session_start();
 
-
-
 require 'connection/connection.php';
 require 'CRUD_Tables/User.php';
 require 'CRUD_Tables/Product.php';
